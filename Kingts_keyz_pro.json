@@ -1,0 +1,445 @@
+{
+    "update_log": [
+        {
+            "version": "1.0.5",
+            "downloadlink": "https://www.mediafire.com/file/2il0mm7exlq8fvc/KING_TS_v1.0.5.zip/file",
+            "mobile_sutep": "https://youtu.be/msmdhcg-u9M?si=cb3mvNwX1yGtkUyv",
+            "laptop_sutep": "https://youtu.be/uiuHQbytLmQ",
+            "com.kiwibrowser.browser": "https://kiwi-browser.en.uptodown.com/android/download",
+            "net.quetta.browser": "https://play.google.com/store/apps/details?id=net.quetta.browser",
+            "site.mises.browser_stable": "https://play.google.com/store/apps/details?id=site.mises.browser_stable",
+            "com.lemurbrowser.exts": "https://play.google.com/store/apps/details?id=com.lemurbrowser.exts"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "NAYEEM UDDIN",
+            "key": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
+            "expiry": "2026-10-06",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "23 Days left"
+        },
+        {
+            "name": "AASHU GUPTA",
+            "key": "f46ceaebfe890796357a2ca5cfa47e7827d25888e9fd8aecc0597eb085591126",
+            "expiry": "2026-10-10",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "27 Days left"
+        },
+        {
+            "name": "ALAMGIR",
+            "key": "89a4318c2af69d806d5026aafe7121aef73b60e6933366fe4a29571085ca9ff6",
+            "expiry": "2026-09-15",
+            "mode": "vip",
+            "c": "var(--ios-orange)",
+            "x": 0,
+            "st": "2 Days left"
+        },
+        {
+            "name": "EGNAS KUJUR",
+            "key": "6f833fd966fee77412cc0f29f35e3dbd099f23a3bd0e6876577e0209360e4925",
+            "expiry": "2026-09-13",
+            "mode": "vip",
+            "c": "var(--ios-orange)",
+            "x": 0,
+            "st": "0 Days left"
+        },
+        {
+            "name": "RATNESH RAJBHAR",
+            "key": "c6f18a83c556f5108e7a1db2abbc1c80d84149f6fabace2be1ab02504b6677ae",
+            "expiry": "2026-09-13",
+            "mode": "vip",
+            "c": "var(--ios-orange)",
+            "x": 0,
+            "st": "0 Days left"
+        },
+        {
+            "name": "TATKAL GURU",
+            "key": "42bdb0a0e694bd9528c3a02519e8f906fe914820d11b34694b377959dc192fc3",
+            "expiry": "2026-09-14",
+            "mode": "vip",
+            "c": "var(--ios-orange)",
+            "x": 0,
+            "st": "1 Days left"
+        },
+        {
+            "name": "GOLU",
+            "key": "5bdb90575f596e72c0caa36593639edb1abd2ab5d6bd9bc2ceb854bf1ef752ee",
+            "expiry": "2026-09-14",
+            "mode": "vip",
+            "c": "var(--ios-orange)",
+            "x": 0,
+            "st": "1 Days left"
+        },
+        {
+            "name": "SONU",
+            "key": "331420f2a39acada789d95eb3a6f7b459382dab9b9a47137c335cdf28f03fd78",
+            "expiry": "2026-09-15",
+            "mode": "vip",
+            "c": "var(--ios-orange)",
+            "x": 0,
+            "st": "2 Days left"
+        },
+        {
+            "name": "GOPAL",
+            "key": "a162b48aef0e7b73814177ba3d72c860a37dc6c0167566c72196fc9dae013ea2",
+            "expiry": "2026-09-16",
+            "mode": "vip",
+            "c": "var(--ios-orange)",
+            "x": 0,
+            "st": "3 Days left"
+        },
+        {
+            "name": "G M SHAIKH",
+            "key": "355eb427aa1c6bbbe089f7d8186a1db0d93f9053139ab571ddee02e2c46ebac4",
+            "expiry": "2026-09-18",
+            "mode": "vip",
+            "c": "var(--ios-orange)",
+            "x": 0,
+            "st": "5 Days left"
+        },
+        {
+            "name": "SR SR",
+            "key": "88b288a99a2d960055a3b21f81ed10119f8082f522e6546f0bf5106a5ff2e6dc",
+            "expiry": "2026-10-19",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "36 Days left"
+        },
+        {
+            "name": "PROART",
+            "key": "68ec35b3346d0cf48b0a8c0ace7eb745f0fd00bfb72f9fa53e5deb46422f1f33",
+            "expiry": "2026-09-20",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "7 Days left"
+        },
+        {
+            "name": "USR_4M6U",
+            "key": "4e2f74c0be9876d0a1af11cce48f3118dd90ac4e6e8dda47f917e2905f2cb16e",
+            "expiry": "2026-09-20",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "7 Days left"
+        },
+        {
+            "name": "VIKASH KUMAR",
+            "key": "fcc499e133235b2f0a14d9dbf2530631983f1fdcade5f3a5ff15b40d30acb5c9",
+            "expiry": "2026-09-20",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "7 Days left"
+        },
+        {
+            "name": "RU DON",
+            "key": "73b9c17f83f030ef0088e9ffc8c298484fe2b6ca5402dffb4173238bcd2ff033",
+            "expiry": "2026-09-21",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "8 Days left"
+        },
+        {
+            "name": "ASRAFUL",
+            "key": "f0071015f4dad85ce1d0dea8ed20b8daaac026e2783b0ed7345061749d6b9b7f",
+            "expiry": "2026-09-22",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "9 Days left"
+        },
+        {
+            "name": "UMAR",
+            "key": "9dd373acc6404e99e500940971592cb9353d984f017d020244aa5d67a99b6c8a",
+            "expiry": "2026-09-22",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "9 Days left"
+        },
+        {
+            "name": "SURAT",
+            "key": "0a9626a11af82867f3a02dacb4f7595643364d9f8ddd2e71e09e5ceda4239d8d",
+            "expiry": "2026-09-24",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "11 Days left"
+        },
+        {
+            "name": "RAHMAT",
+            "key": "af44e101d36f97de52c1001b548cda58163ec82e0d3bde12a78e3dd0517c1385",
+            "expiry": "2026-09-24",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "11 Days left"
+        },
+        {
+            "name": "MD RIYAZ",
+            "key": "8ec3c9b9ddcfe869da283418840f842f60cf04ffd3989478a749ae4aa1bd49ef",
+            "expiry": "2026-09-29",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "16 Days left"
+        },
+        {
+            "name": "ARSH",
+            "key": "da33e976862f629ac2ee5ccded8bd0325806c86812144edd6589810ea7cfe608",
+            "expiry": "2026-09-30",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "17 Days left"
+        },
+        {
+            "name": "ADMIN",
+            "key": "50974ee536572dea5f73ac1d7c62a0e9ef46f939f56c6fdd2ae6f4aaa50e27a7",
+            "expiry": "2030-10-02",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "1480 Days left"
+        },
+        {
+            "name": "INZAMAM",
+            "key": "bfebf7213ce8abb6220d55d2ecec13b473dde0a12e85aada88368af77b1cf376",
+            "expiry": "2026-10-10",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "27 Days left"
+        },
+        {
+            "name": "IRFAN SAMEER",
+            "key": "d9c66c785a7e3f9aa148df5ab56924121266760dee6249aa67ecdcc104db6d05",
+            "expiry": "2026-10-10",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "27 Days left"
+        },
+        {
+            "name": "PREM",
+            "key": "22f8d17a826da8a481fc9b4fa2d04a3f8e71183d7e0bc9be73aa79d5944c002e",
+            "expiry": "2026-10-10",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "27 Days left"
+        },
+        {
+            "name": "TSA GROUP",
+            "key": "02ee48d182f9352acfd80dfbdfadfc3af02b0f2392c734dbcda9576cb3148bac",
+            "expiry": "2026-10-06",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "23 Days left"
+        },
+        {
+            "name": "NAHID AHMAD",
+            "key": "56e5b4bf70c7f2dfb0f877d46e4bdfb65d15124a8e6c506b190a7431ab37b1ab",
+            "expiry": "2026-10-06",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "23 Days left"
+        },
+        {
+            "name": "CDD SONI",
+            "key": "7b70d2f3b60977da6646c0162a6ee3069b0788df4d265aeadacfc41e046f2cc3",
+            "expiry": "2026-10-07",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "24 Days left"
+        },
+        {
+            "name": "HAFIJULLAH",
+            "key": "6111604b26ed672a4d938bcd1daf06f93105ae1bdd6f89d49ef227e97dc9686c",
+            "expiry": "2026-10-07",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "24 Days left"
+        },
+        {
+            "name": "DEEPAK KUMAR",
+            "key": "bc5f31bc35526c76e467a4eee4aac25d0007742b1e57ccc85c9d7d720bcf0c88",
+            "expiry": "2026-10-07",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "24 Days left"
+        },
+        {
+            "name": "VIKRAM",
+            "key": "9311a9660b273c187cbe0769ff2b29a13829b654edb257a6d3d7f55380b05900",
+            "expiry": "2026-10-07",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "24 Days left"
+        },
+        {
+            "name": "MD MODASSIR",
+            "key": "a9f62827b25fc5c8cfd96aa114588737aabececf5c8f3001b6f77df42ec7a52f",
+            "expiry": "2026-10-08",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "25 Days left"
+        },
+        {
+            "name": "IK TENDAL",
+            "key": "fbed8f8169016999b97dabca4fded4a27d85cac85f929e6e6f623d9495514db8",
+            "expiry": "2026-10-09",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "26 Days left"
+        },
+        {
+            "name": "SANJEEV",
+            "key": "70a70025a2c18468dfaccaabbd4be04c940e22018efed86640a37383ea83654e",
+            "expiry": "2026-10-10",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "27 Days left"
+        },
+        {
+            "name": "KP",
+            "key": "bc98ec8dc2d55264ef950e56bee2445c1d7fba4be0f962ef0ad20fdc7c54f8d3",
+            "expiry": "2026-10-11",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "28 Days left"
+        },
+        {
+            "name": "USR_9ATI",
+            "key": "2b2d0c3cc01c80ccc0e850f082d47be63a97680e40a49b0385ad30f7ca3764ec",
+            "expiry": "2026-10-11",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "28 Days left"
+        },
+        {
+            "name": "VINOD G",
+            "key": "d78a750ef9fc1f52adfd80628b322de455df1d739c41544065efb5dc31b566d7",
+            "expiry": "2026-10-11",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "28 Days left"
+        },
+        {
+            "name": "RAHUL",
+            "key": "7bcd8b53e638f7c0f840bad217a0bdf62228c21baae67f0c122e4d6d2c30165a",
+            "expiry": "2026-10-12",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "29 Days left"
+        },
+        {
+            "name": "ASIFALI",
+            "key": "29d40bea12a7bac98e94682bb28736f83588f7f4371267265f3a307cd2f470d3",
+            "expiry": "2026-10-12",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "29 Days left"
+        },
+        {
+            "name": "RAJEEV RANJAN",
+            "key": "3c25d0cb2786a993df18148bc97a50664b6d29abf4f14dc105725691ec74c939",
+            "expiry": "2026-10-12",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "29 Days left"
+        },
+        {
+            "name": "RAJAT SASMAL",
+            "key": "68381e41e6c6e783d43b9ca7c5898628f1fb0d47d9c552513fbc973257ac66de",
+            "expiry": "2026-10-13",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "30 Days left"
+        },
+        {
+            "name": "SHYAM",
+            "key": "04a7aff71cc79490da3796ffebbd24d67931841f5dbfaa7308f62fd0c3b5073c",
+            "expiry": "2026-10-13",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "30 Days left"
+        },
+        {
+            "name": "PRINCE",
+            "key": "75a46c0320561edf46669d9a106eda1dec1c8e51243b0e65e69de1cb134d4157",
+            "expiry": "2026-10-18",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "35 Days left"
+        },
+        {
+            "name": "MAHI",
+            "key": "558522d0b9ef6613350aee47225d60857583738d12d64695201690a44529f81a",
+            "expiry": "2026-10-18",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "35 Days left"
+        },
+        {
+            "name": "VIKASH SIR",
+            "key": "cbc3518556349d6bfdfd98a82729ae35a389ab367e10af1d22eabe37c178e11e",
+            "expiry": "2026-10-13",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "30 Days left"
+        },
+        {
+            "name": "ASALAM",
+            "key": "a1a78835a78be33bdf87981950aaec0cb65deb8375d73dc39a441f0d162db2bd",
+            "expiry": "2026-10-13",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "30 Days left"
+        },
+        {
+            "name": "MOJA MIA",
+            "key": "03897dfc9e495eb3382af4754bc68595cdd15e7c8c0e98e26033a187dc552c54",
+            "expiry": "2026-10-14",
+            "mode": "vip",
+            "c": "var(--ios-green)",
+            "x": 0,
+            "st": "31 Days left"
+        },
+        {
+            "name": "PRAKASH",
+            "key": "84cecb2be311209dc9c4c7093892356d975935c5a1736d3c158d5aeff08b8313",
+            "expiry": "2026-10-14",
+            "mode": "vip"
+        }
+    ]
+}
