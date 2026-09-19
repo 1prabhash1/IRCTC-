@@ -15,11 +15,11 @@
         {
             "name": "ADMIN",
             "key": "c775e7b757ede630cd0aa1113bd102661ab38829ca52a6422ab782862f268646",
-            "expiry": "2027-10-06",
+            "expiry": "2026-12-06",
             "mode": "vip",
             "c": "var(--ios-green)",
             "x": 0,
-            "st": "230 Days left"
+            "st": "38 Days left"
         },
         {
             "name": "AASHU GUPTA",
